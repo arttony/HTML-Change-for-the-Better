@@ -1,10 +1,10 @@
 nav {
     color: white;
-    background: linear-gradient(aqua, black);
+    background: linear-gradient(lightblue, pink);
 }
 
 main{
-    background: linear-gradient(aqua, rgb(211, 25, 25));
+    background: linear-gradient(lightblue, pink);
 }
 
 .banner {
@@ -23,7 +23,7 @@ main{
 }*/
 
 footer {
-    background: linear-gradient(to top, aqua, black);
+    background: linear-gradient(to top, pink, lightblue);
     color: white;
 }
 
